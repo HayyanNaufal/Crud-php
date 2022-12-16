@@ -1,2 +1,5 @@
 # Crud-php
-Tugas sekolah tentang crud php input data, edit data dan hapus data
+Tugas sekolah crud php :
+- Input data
+- Edit data
+- Hapus data
